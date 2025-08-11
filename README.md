@@ -42,3 +42,7 @@ These features position the **Brat Generator** as a powerful tool for fans to en
 ## Why Brat-Gen Matters  
 
 [Brat-Gen](https://brat-gen.com)’s **Brat Generator** is more than a creative tool—it’s a gateway to the *Brat Summer* cultural wave. By enabling fans to effortlessly create *Brat*-style covers, Brat-Gen supports the global *Brat* fanbase in expressing their creativity. Its simplicity and accessibility make it ideal for crafting *Brat*-style covers for social media, personal projects, or digital art, from Instagram stories to desktop wallpapers. The **Brat Generator** empowers fans to contribute to the *Brat Summer* movement, amplifying the *Brat* aesthetic’s bold, rebellious energy. Whether you’re sharing a *Brat*-style cover on X or designing a unique artwork, Brat-Gen helps you become part of *Brat Summer* 2025.
+
+## Friends Link
+
+- [Tap Bio](https://tap.bio/@BratGenerator)
