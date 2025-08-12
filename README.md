@@ -46,3 +46,6 @@ These features position the **Brat Generator** as a powerful tool for fans to en
 ## Friends Link
 
 - [Tap Bio](https://tap.bio/@BratGenerator)
+- [Cal.com](https://app.cal.com/duanhjlt)
+- [Twitch](https://www.twitch.tv/duanhjlt/about)
+- [bento](https://bento.me/brat-gen)
