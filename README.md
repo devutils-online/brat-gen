@@ -49,3 +49,6 @@ These features position the **Brat Generator** as a powerful tool for fans to en
 - [Cal.com](https://app.cal.com/duanhjlt)
 - [Twitch](https://www.twitch.tv/duanhjlt/about)
 - [bento](https://bento.me/brat-gen)
+- [Startup Frame](https://startupfa.me/brat-gen)
+- [MAKE.RS](https://make.rs/@duanhjlt/projects)
+- [Folll.io](https://folll.io/brat-gen)
