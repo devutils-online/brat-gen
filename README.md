@@ -54,3 +54,4 @@ These features position the **Brat Generator** as a powerful tool for fans to en
 - [Folll.io](https://folll.io/brat-gen)
 - [FrogDR](https://frogdr.com/brat-gen.com)
 - [linktree](https://linktr.ee/bratgenerator1)
+- [Twitch](https://www.twitch.tv/bratgenerator/about)
