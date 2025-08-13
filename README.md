@@ -52,3 +52,5 @@ These features position the **Brat Generator** as a powerful tool for fans to en
 - [Startup Frame](https://startupfa.me/brat-gen)
 - [MAKE.RS](https://make.rs/@duanhjlt/projects)
 - [Folll.io](https://folll.io/brat-gen)
+- [FrogDR](https://frogdr.com/brat-gen.com)
+- [linktree](https://linktr.ee/bratgenerator1)
