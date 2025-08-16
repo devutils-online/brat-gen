@@ -65,3 +65,5 @@ These features position the **Brat Generator** as a powerful tool for fans to en
 - [Gravatar](https://gravatar.com/legendarynightd67db80fd4)
 - [dibiz](https://www.dibiz.com/duanhjlt+brat)
 - [proko](https://www.proko.com/@bratgenerator)
+- [Behance](https://www.behance.net/bratgenerator)
+- [linkr.bio](https://linkr.bio/bratgenerator)
